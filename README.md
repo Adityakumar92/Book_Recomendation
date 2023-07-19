@@ -40,7 +40,7 @@ The recommendation system is built on collaborative filtering principles, analyz
 
 To use the Book Recommendation System locally, follow these steps:
 
-1. Clone the GitHub repository: [link_to_github_repo]
+1. Clone the GitHub repository: https://github.com/Adityakumar92/Book_Recomendation.git
 2. Install the required dependencies by running `pip install -r requirements.txt`.
 3. Ensure you have the dataset files (book data, user data, and rating data) in the appropriate format and directory.
 4. Run the recommendation system using `python recommendation_system.py`.
